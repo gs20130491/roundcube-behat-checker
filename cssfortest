@@ -1,0 +1,253 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Login</title>
+    <!-- Required Meta Tags Always Come First -->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="favicon.ico">
+
+    <script src="/itb/Scripts/bundle?v=o8ePuVWZMAIA5qckGGEwo3czIOXoGTES6csYqsyugOI1"></script>
+
+    <script src="/itb/Scripts/DevExtremeBundle?v=2PQ1Wa6e3snyCdS9Cw8DGTF-8JEGoKgYfS4DosJbxJk1"></script>
+
+
+
+    <link rel="stylesheet" type="text/css" href="/itb/DXR.axd?r=0_1884,1_69,1_70,1_71,0_1889,1_75,1_251,0_1775,1_250,0_1780,0_1785,0_1790,1_109,0_1857,0_1862,24_378,24_379,24_383,26_37,26_36,0_1913,26_35,0_1918,26_32,1_91-y7Ibh&p=9c56bc13" />
+    <script id="dxis_1345367077" src="/itb/DXR.axd?r=1_16,1_66,1_17,1_18,1_19,1_20,1_21,1_25,1_68,1_51,1_22,1_14,17_6,17_13,1_32,1_42,1_34,17_33,1_28,1_58,17_40,1_44,1_57,1_56,17_39,1_225,1_226,1_29,1_36,1_49,1_254,1_252,1_280,1_50,1_55,17_12,1_54,17_20,1_26,1_27,1_43,1_37,1_24,1_265,1_266,1_253,1_259,1_257,1_260,1_261,1_258,1_262,1_255,1_263,1_264,1_268,1_276,1_278,1_279,1_267,1_271,1_272,1_273,1_256,1_269,1_270,1_274,1_275,1_277,17_0,17_8,1_62,1_60,17_43,1_59,17_41,1_61,17_46,17_44,1_63,17_9,1_52,17_14,17_15,1_38,17_16,1_65,17_17,1_53,1_41,17_45,1_46,17_3,17_19,1_224,17_29,1_231,1_290,17_7,1_281,1_282,1_283,1_284,1_285,1_286,17_4,26_20,26_22,24_368,24_388,26_21,26_23,17_32,26_25,17_18,26_12,26_17,26_19,17_31,26_16,1_228,1_234,26_14,26_15,26_13,26_18-y7Ibh&amp;p=d7a99294" type="text/javascript"></script>
+
+    <link href="/itb/Content/bundle2?v=3oyF0p5fQp95NhE1VVb9kzAUpupdAK6NzljB5V0lLNM1" rel="stylesheet"/>
+
+
+</head>
+<body>
+    <!-- livezilla.net PLACE SOMEWHERE IN BODY -->
+<div id="lvztr_674" style="display:none"></div>
+<script id="lz_r_scr_5eb3b60b8e24e031fa1119ff92c9b659" type="text/javascript" defer>lz_code_id = "5eb3b60b8e24e031fa1119ff92c9b659"; var script = document.createElement("script"); script.async = true; script.type = "text/javascript"; var src = "https://ebanking.zigamacss.rw/livezilla/server.php?rqst=track&output=jcrpt&fbpos=12&fbw=39&fbh=137&fbmr=40&fbmb=30&nse=" + Math.random(); script.src = src; document.getElementById('lvztr_674').appendChild(script);</script><div style="display:none;"><a href="javascript:void(window.open('https://ebanking.zigamacss.rw/livezilla/chat.php?hfk=MQ__&epc=IzM4QTE0OA__&esc=I0U0RUZEMw__','','width=400,height=600,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))" class="lz_fl"><img id="chat_button_image" src="https://ebanking.zigamacss.rw/livezilla/image.php?id=4&type=overlay" width="39" height="137" style="border:0px;" alt="LiveZilla Live Chat Software"></a></div>
+<!-- livezilla.net PLACE SOMEWHERE IN BODY -->
+
+<style>
+    test {
+        color: #38A148;
+        color: #E4EFD3;
+        color: #194D28;
+    }
+</style>
+    <!-- ========== MAIN ========== -->
+    <main id="content" role="main">
+        
+
+<script src="/itb/Scripts/test.js"></script>
+<script src="/itb/Scripts/B2.js"></script>
+
+<style>
+    .validation-summary-errors ul {
+        list-style: none;
+        margin-left: -40px;
+    }
+</style>
+
+<script src="/itb/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+
+<script>
+
+    function SubmitLgn() {
+        $("#LgnFrmLyt").validate()
+        
+
+    }
+
+    //function onSubmitHandler()
+    //{
+    //    var Pass = Base64.encode(Conversions.base32.encode(Conversions.base32.encode($('#Password').val())));
+    //    //alert(Pass);
+    //    $('#Password').val(Pass);
+    //    return Pass;
+    //}
+
+    
+</script>
+
+
+<!-- Form -->
+<div class="d-flex align-items-center position-relative min-height-100vh--lg">
+    <!-- Navbar -->
+    <header class="position-absolute-top-0 z-index-2">
+        <nav class="d-flex justify-content-between align-items-center">
+            <!-- Logo -->
+            <div class="col-lg-5 col-xl-4 text-lg-center px-0">
+                <a class="d-inline-block p-3 p-sm-5" href="#" aria-label="Front">
+                    
+
+                </a>
+            </div>
+            <!-- End Logo -->
+            <!-- Button -->
+            
+            <!-- End Button -->
+        </nav>
+    </header>
+    <style>
+        #w-100 img {
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+        }
+    </style>
+    <!-- End Navbar -->
+    <div class="col-lg-5 col-xl-4 d-none d-lg-flex align-items-center zcssprimary min-height-100vh--lg px-0">
+        <div class="w-100 p-5" style="display:table-cell; vertical-align:middle; text-align:center">
+
+            <img src="/itb/images/logo.png" />
+            <!-- SVG Quote -->
+            
+            <!-- End SVG Quote -->
+            <!-- Testimonials Carousel Main -->
+            <div id="testimonialsNavMain" class="js-slick-carousel u-slick mb-4 slick-initialized slick-slider" data-infinite="true" data-autoplay="true" data-speed="5000" data-fade="true" data-nav-for="#testimonialsNavPagination">
+                <div class="slick-list draggable">
+                    <div class="slick-track" style="opacity: 1; width: 1089px;">
+                        <div class="js-slide slick-slide" data-slick-index="0" aria-hidden="true" style="width: 363px; position: relative; left: 0px; top: 0px; z-index: 998; opacity: 0; height: auto; transition: opacity 500ms ease;" tabindex="0">
+                            <!-- Testimonials -->
+                            <div class="w-md-80 w-lg-60 text-center mx-auto">
+                                <blockquote class="h5 text-white font-weight-normal mb-4"></blockquote>
+                                <h1 class="h6 u-text-light"></h1>
+                            </div>
+                            <!-- End Testimonials -->
+                        </div>
+
+                        <div class="js-slide slick-slide" data-slick-index="1" aria-hidden="true" style="width: 363px; position: relative; left: -363px; top: 0px; z-index: 998; opacity: 0; height: auto; transition: opacity 500ms ease;" tabindex="-1">
+                            <!-- Testimonials -->
+                            <div class="w-md-80 w-lg-60 text-center mx-auto">
+                                <blockquote class="h5 text-white font-weight-normal mb-4"></blockquote>
+                                <h2 class="h6 u-text-light"></h2>
+                            </div>
+                            <!-- End Testimonials -->
+                        </div>
+                        <div class="js-slide slick-slide slick-current slick-active" data-slick-index="2" aria-hidden="false" style="width: 363px; position: relative; left: -726px; top: 0px; z-index: 999; opacity: 1; height: auto;" tabindex="0">
+                            <!-- Testimonials -->
+                            <div class="w-md-80 w-lg-60 text-center mx-auto">
+                                <blockquote class="h5 text-white font-weight-normal mb-4"></blockquote>
+                                <h3 class="h6 u-text-light"></h3>
+                            </div>
+                            <!-- End Testimonials -->
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+            <!-- End Testimonials Carousel Main -->
+            <!-- Testimonials Carousel Pagination -->
+            <div id="testimonialsNavPagination" class="js-slick-carousel u-slick u-slick--transform-off u-slick--pagination-modern mx-auto slick-initialized slick-slider slick-transform-off" data-infinite="true" data-autoplay="true" data-speed="5000" data-center-mode="true" data-slides-show="3" data-is-thumbs="true" data-focus-on-select="true" data-nav-for="#testimonialsNavMain">
+                <div class="slick-list draggable" style="padding: 0px;">
+                    <div class="slick-track" style="opacity: 1; width: 201px; transform: translate3d(-67px, 0px, 0px); transition: transform 500ms ease;">
+                        <div class="js-slide slick-slide slick-active" data-slick-index="0" aria-hidden="false" style="width: 67px; height: auto;" tabindex="0">
+                            
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+            <!-- End Testimonials Carousel Pagination -->
+            <!-- Clients -->
+            <div class="position-absolute-bottom-0 text-center p-5">
+                
+                <div class="d-flex justify-content-center">
+                    <div class="mx-4">
+                        
+                        
+                        <p class="text-sm-left text-light" style="font-size:smaller;text-align:left!important">
+                            
+                        </p>
+                    </div>
+
+                </div>
+            </div>
+            <!-- End Clients -->
+        </div>
+    </div>
+                <div class="container-fluid">
+                    <div class="row no-gutters">
+                        <div class="col-md-8 col-lg-7 col-xl-6 offset-md-2 offset-lg-2 offset-xl-3 u-space-3 u-space-0--lg">
+                            <!-- Form -->
+<form Id="LgnFrmLyt" action="/itb/Login" class="needs-validation _js-validate mt-5" method="post" role="form"><input name="__RequestVerificationToken" type="hidden" value="AzHU3HkgFLd37ZAKRkUbzLt5sKk90CeQjKjyLZlM2WYYlvnrnfRIMZ4OEie0FUjF8KAfURF39dxAWJqPZP447two282A80H58_wUmdASbXk1" />                                <!-- Title -->
+                                <div class="mb-7">
+                                    <h2 class="h3 text-primary font-weight-normal mb-0">Welcome to <span class="font-weight-bold">Zigama CSS</span></h2>
+                                    <p>Login to access internet banking.</p>
+                                </div>
+                                <!-- End Title -->
+                                <div id="card-footer-msg" class="invalid-feedback" style="display: block;">
+                                    
+
+                                </div>
+                                <!-- Input -->
+                                <div class="js-form-message mb-4 u-has-error">
+                                    <label class="h6 small d-block text-uppercase" for="Email">Online ID</label>
+                                    <div class="js-focus-state input-group u-form">
+                                        <input autocomplete="False" autofocus="True" class="form-control u-form__input" data-val="true" data-val-required="The Online ID field is required." id="Email" name="Email" tabindex="1" type="text" value="" />
+
+                                    </div>
+                                    <div class="invalid-feedback" style="display: block;">
+                                        <span class="field-validation-valid" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+
+                                    </div>
+                                </div>
+                                <!-- End Input -->
+                                <!-- Input -->
+                                <div class="js-form-message mb-4">
+                                    <div class="d-flex justify-content-between align-items-center">
+                                        <label autocomplete="False" class="h6 small d-block text-uppercase" for="Password">Password</label>
+                                        <div class="mb-2">
+                                            <a class="small u-link-muted" href="#">Forgot Password?</a>
+                                        </div>
+                                    </div>
+                                    <div class="js-focus-state input-group u-form">
+                                        <input class="form-control form-control u-form__input" data-val="true" data-val-length="The Password must be at least 6 and at max 100 characters long." data-val-length-max="100" data-val-length-min="6" data-val-required="The Password field is required." id="Password" name="Password" tabindex="2" type="password" />
+                                    </div>
+                                    <div class="invalid-feedback" style="display: block;">
+                                        <span class="field-validation-valid" data-valmsg-for="Password" data-valmsg-replace="true"></span>
+
+                                    </div>
+                                </div>
+                                <!-- End Input -->
+                                <!-- Button -->
+                                <div class="row align-items-center mb-5">
+                                    <div class="col-8">
+                                        <span class="small text-muted">Don't have an OnlineID?</span>
+                                        <a class="small" href="#">Call 5005</a>
+                                    </div>
+                                    <div class="col-4 text-right">
+                                        <input value="Login" type="submit" id="submitBtn" class="btn btn-success u-btn-primary transition-3d-hover">
+                                    </div>
+                                </div>
+                                <!-- End Button -->
+</form>                            <!-- End Form -->
+                        </div>
+                    </div>
+                </div>
+
+</div>
+<!-- End Form -->
+
+    </main>
+    <!-- ========== END MAIN ========== -->
+    <script src="/itb/Scripts/adds2?v=ZAcg46ioiR0W96ObCoUMBuy-YRoHP7uGkVAOiYgGn2U1"></script>
+
+
+    <!-- JS Plugins Init. -->
+    <script>
+        $(document).on('ready', function () {
+            // initialization of slick carousel
+            // $.HSCore.components.HSSlickCarousel.init('.js-slick-carousel');
+
+            // initialization of forms
+            // $.HSCore.helpers.HSFocusState.init();
+        });
+    </script>
+</body>
+<script type="text/javascript">var _0xcaad=["indexOf","; path=/","cookie","=","x-bni-ja","stack","phantomjs","plugins","length","onmousemove"];var err;function indexOfString(_0x1ce0x3,_0x1ce0x4){return _0x1ce0x3[_0xcaad[0]](_0x1ce0x4)}try{null[0]()}catch(e){err=e};function setCookie(_0x1ce0x6){var _0x1ce0x7=-350809940;var _0x1ce0x8=2032901533;var _0x1ce0x9=_0x1ce0x7+_0x1ce0x8+_0xcaad[1];document[_0xcaad[2]]=_0x1ce0x6+_0xcaad[3]+_0x1ce0x9}function set_answer_cookie(){setCookie(_0xcaad[4])}function set_answer_cookie_1(){set_answer_cookie()}if((indexOfString(err[_0xcaad[5]],_0xcaad[6])> -1)||(!(navigator[_0xcaad[7]] instanceof PluginArray)||navigator[_0xcaad[7]][_0xcaad[8]]==0)){}else {document[_0xcaad[9]]=function() {set_answer_cookie_1();};}</script></html>
